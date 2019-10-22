@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera App</string>
+    <string-array name="car_category">
+        <item>Sony</item>
+        <item>Canon</item>
+        <item>Nikon</item>
+
+        </string-array>
+</resources>
